@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("View did load started!")
+        print("Super new feature!")
     }
 
 
