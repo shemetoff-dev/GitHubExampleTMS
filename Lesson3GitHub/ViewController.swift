@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         
         print("View did load started!")
         print("Super new feature!")
+        print("Fix Super new feature! bug")
     }
 
 
