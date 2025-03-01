@@ -13,6 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("View did load started!")
+        print("Super new feature!")
+        print("Fix Super new feature! bug")
+        print("Add new fixes!")
     }
 
 
